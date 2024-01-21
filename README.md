@@ -9,7 +9,7 @@ The **Node** class represents a node in the linked list. It contains an integer 
 
 ### Methods###
 
-     * Constructor : Node(int val), Node()
+* Constructor : Node(int val), Node()
      * Getter Methods: int get_val(), Node* get_next()
      * Setter Methods: set_val(), set_next()
 
@@ -19,7 +19,7 @@ The **List** class manages the linked list and provides methods to perform commo
 
 ### Methods###
 
-    * **void add_node(int value)** : Adds a new node with the specified integer value to the end of the list.
+ * **void add_node(int value)** : Adds a new node with the specified integer value to the end of the list.
     * **void remove_node(int del_val)**: Removes the node with the specified integer value from the list.
     * **void insert_after(int position, int value)**: Inserts a new node with the given integer value after the node at the specified position.
     * **void print()**: Prints the elements of the linked list.
