@@ -4,7 +4,7 @@ This C++ program provides a basic implementation of a singly linked list for int
 
 # Classes
 
-1. ## Node ##
+**i.** ## Node ##
 The **Node** class represents a node in the linked list. It contains an integer value and a pointer to the next node in the list.
 
 ### Methods ###
@@ -13,7 +13,7 @@ The **Node** class represents a node in the linked list. It contains an integer 
 * Getter Methods: int get_val(), Node* get_next()
 * Setter Methods: set_val(), set_next()
 
-2. ## List ##
+**ii.** ## List ##
 
 The **List** class manages the linked list and provides methods to perform common operations.
 
